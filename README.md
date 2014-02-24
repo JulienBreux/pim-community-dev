@@ -157,4 +157,3 @@ Execute the `check.php` script from the command line:
 
 If you get any warnings or recommendations, fix them before moving on.
 
-Con
